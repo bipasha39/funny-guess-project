@@ -3,7 +3,7 @@ import "./header.css"
 function Header(){
     return(
         <div className="header">
-            <h1 className="text">What You Would Be in Programming rather than codeWomen</h1>
+            <h1 className="text">Check which programming word resonates you most....</h1>
         </div>
     )
 }
